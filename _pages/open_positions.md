@@ -39,8 +39,9 @@ Open year-round. Opportunities (>3 months, on-site or remote) range from researc
 
 Please send me an email at **donghaospurs@gmail.com** with:
 1. Your CV
-2. A brief statement (1–2 paragraphs) explaining your research interests and why you want to join our group
-3. Links to any publications or code (if applicable)
+2. The role you apply for
+3. A brief statement (1-2 paragraphs) explaining your research interests and why you want to join our group
+4. Links to any publications or code (if applicable)
 
 I will do my best to respond to all inquiries, though I may not always be able to reply to every email due to volume.
 
