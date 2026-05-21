@@ -2,16 +2,16 @@
 layout: page
 permalink: /open-positions/
 title: open positions
-description: Open PhD, postdoc, and research positions in the group.
+# description: Open PhD, postdoc, and research positions in the group.
 nav: true
 nav_order: 2
 ---
 
-I am actively looking for motivated and talented individuals to join my research group at **Tampere University** and **ELLIS Institute Finland** (starting Aug. 2026). Our research focuses on multimodal learning, reliable and trustworthy machine learning, vision-language models, and generalization & adaptation, with applications in robotics, autonomous driving, healthcare, and industrial monitoring.
+I am actively looking for motivated students to join my research group at **ELLIS Institute Finland** and **Tampere University** for **Fall 2026 / Spring 2027**. Our research focuses on multimodal learning, reliable and trustworthy machine learning, vision-language models, and generalization & adaptation, with applications in robotics, autonomous driving, healthcare, and industrial monitoring.
 
 ## PhD Positions
 
-I am recruiting **PhD students** with a strong background in machine learning, computer vision, or related areas. Ideal candidates have:
+I am recruiting **2-3 PhD students** with a strong background in machine learning, computer vision, or related areas. Ideal candidates have:
 
 - A Master's degree (or equivalent) in Computer Science, Electrical Engineering, Mathematics, or a related field
 - Strong programming skills (Python, PyTorch)
@@ -19,13 +19,21 @@ I am recruiting **PhD students** with a strong background in machine learning, c
 - A good command of English (written and spoken)
 - Motivation for independent research and publishing at top venues
 
+Typically 4 years, fully funded, starting salary approx. €3,000+/month (gross) with comprehensive benefits (following Tampere University policy and Finnish social security). Eligible group members can later be nominated as official ELLIS PhDs.
+
 ## Postdoctoral Positions
 
-I am also open to hosting **postdoctoral researchers**. Candidates with expertise in multimodal learning, OOD detection, domain adaptation, or foundation models are especially welcome.
+I am also open to hosting **1-2 postdoctoral researchers**. Candidates with expertise in multimodal learning and foundation models are especially welcome. Ideal candidates have:
 
-## Master's / Bachelor's Projects
+- A PhD degree in related field
+- Relevant publications at top venues
+- A good command of English (written and spoken)
 
-Students at Tampere University interested in thesis projects related to our research topics are welcome to reach out.
+Up to 3 years, starting salary approx. €4,000+/month (gross) with comprehensive benefits (following Tampere University policy and Finnish social security). Eligible group members can later be nominated as official ELLIS Postdocs.
+
+## Research Interns / Visiting Students / Thesis Students / Collaborators
+
+Open year-round. Opportunities (>3 months, on-site or remote) range from research internships to thesis supervision and visiting stays.
 
 ## How to Apply
 

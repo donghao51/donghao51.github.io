@@ -1,9 +1,9 @@
 # Social media links and usernames
 # displayed in the order defined here
 # see https://github.com/george-gca/jekyll-socials for all supported fields
-cv_pdf: /assets/pdf/cv_hao_dong.pdf
+# cv_pdf: /assets/pdf/cv_hao_dong.pdf
 email: donghaospurs@gmail.com
 github_username: donghao51
-linkedin_username: # add your LinkedIn username (e.g., hao-dong-xxxxx)
-scholar_userid: # add your Google Scholar ID (found in your Scholar profile URL: ?user=XXXXXXX)
-orcid_id: # add your ORCID (e.g., 0000-0000-0000-0000)
+linkedin_username: hao-dong-276317100 # add your LinkedIn username (e.g., hao-dong-xxxxx)
+scholar_userid: 5jcoGEIAAAAJ # add your Google Scholar ID (found in your Scholar profile URL: ?user=XXXXXXX)
+# orcid_id: # add your ORCID (e.g., 0000-0000-0000-0000)

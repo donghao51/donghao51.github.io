@@ -29,9 +29,9 @@ I am an incoming Principal Investigator at [ELLIS Institute Finland](https://www
 
 My long-term research goal is to advance **a new generation of intelligent ML systems that are robust, reliable, and adaptable**. Such systems should generalize across domain shifts (e.g., varying weather conditions, different equipment), respond effectively to uncertain or unfamiliar inputs (e.g., out-of-distribution objects, misclassifications), and continuously adapt to new domains and tasks. Because the real world is inherently **multimodal**, exploiting complementary information across modalities is essential for strengthening system reliability. My research centers on:
 
-- **Multimodal Learning** and **Vision-Language Models**
+- **Multimodal Learning and Vision-Language Models**
 - **Reliable and Trustworthy Machine Learning**
-- **Domain Generalization & Adaptation** and **Continual Learning**
-- Applications in **Robotics**, **Autonomous Driving**, **Healthcare**, and **Industrial Monitoring**
+- **Generalization, Adaptation, and Continual Learning**
+- **Applications in Robotics, Healthcare, Industrial Monitoring, and Beyond**
 
-I am always looking for motivated PhD students, postdocs, and research collaborators. Please see the [open positions](/open-positions/) page or reach out by email.
+I am always looking for motivated PhD students, postdocs, interns, and research collaborators. Please see the [open positions](/open-positions/) page or reach out by email.
