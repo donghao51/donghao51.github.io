@@ -1,34 +1,67 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"chatzi":
+  - firstname: ["Eleni", "E."]
+    url: https://chatzi.ibk.ethz.ch/about-us/people/prof-dr-eleni-chatzi.html
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"fink":
+  - firstname: ["Olga", "O."]
+    url: https://www.epfl.ch/labs/vita/
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"zhao":
+  - firstname: ["Yue", "Y."]
+    url: https://www.yuezhao.me/
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"chen":
+  - firstname: ["Xieyuanli", "X."]
+    url: https://xieyuanli-chen.com/
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"stachniss":
+  - firstname: ["Cyrill", "C."]
+    url: https://www.ipb.uni-bonn.de/people/cyrill-stachniss/
 
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"kannala":
+  - firstname: ["Juho", "J."]
+    url: https://users.aalto.fi/~kannalj1/
 
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"sarkka":
+  - firstname: ["Simo", "S."]
+    url: https://users.aalto.fi/~ssarkka/
 
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"pollefeys":
+  - firstname: ["Marc", "M."]
+    url: https://people.inf.ethz.ch/pomarc/
 
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"larsson":
+  - firstname: ["Viktor", "V."]
+    url: https://viktorlarsson.github.io/
+
+"dusmanu":
+  - firstname: ["Mihai", "M."]
+    url: https://dusmanu.com/
+
+"nejjar":
+  - firstname: ["Ismail", "I."]
+    url: https://ismailnejjar.com/
+
+"sun":
+  - firstname: ["Han", "H."]
+    url: https://sunhan.me/
+
+"liu":
+  - firstname: ["Moru", "M."]
+    url: https://scholar.google.com/citations?user=YdTkFi0AAAAJ
+
+"zhou":
+  - firstname: ["Kaiyang", "K."]
+    url: https://kaiyangzhou.github.io/
+
+"liang":
+  - firstname: ["Jian", "J."]
+    url: https://liangjiandeng.github.io/
+
+"tian":
+  - firstname: ["Yuan", "Y."]
+    url: https://scholar.google.com/citations?user=OAyVBskAAAAJ
+
+"frusque":
+  - firstname: ["Gaëtan", "G.", "Gaetan"]
+    url: https://scholar.google.com/citations?user=8y0VqoMAAAAJ
