@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-open-positions",
           title: "open positions",
-          description: "Available positions in the research group.",
+          description: "Open PhD, postdoc, and research positions in the group.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/open-positions/";
@@ -405,16 +405,26 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-paper-accepted-to-neurips-2024-as-a-spotlight-multiood-scaling-out-of-distribution-detection-for-multiple-modalities-also-received-the-neurips-2023-travel-award",
+          title: 'Paper accepted to NeurIPS 2024 as a Spotlight: “MultiOOD: Scaling Out-of-Distribution Detection for...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-paper-accepted-to-iclr-2025-towards-robust-multimodal-open-set-test-time-adaptation-via-adaptive-entropy-aware-optimization",
+          title: 'Paper accepted to ICLR 2025: “Towards Robust Multimodal Open-set Test-time Adaptation via Adaptive...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-paper-accepted-to-neurips-2025-extremely-simple-multimodal-outlier-synthesis-for-out-of-distribution-detection-and-segmentation",
+          title: 'Paper accepted to NeurIPS 2025: “Extremely Simple Multimodal Outlier Synthesis for Out-of-Distribution Detection...',
+          description: "",
+          section: "News",},{id: "news-invited-to-participate-in-the-meta-phd-forum-oct-2025",
+          title: 'Invited to participate in the Meta PhD Forum (Oct. 2025).',
+          description: "",
+          section: "News",},{id: "news-excited-to-share-that-i-will-be-joining-tampere-university-as-tenure-track-assistant-professor-and-ellis-institute-finland-as-principal-investigator-both-starting-aug-2026",
+          title: 'Excited to share that I will be joining Tampere University as Tenure-Track Assistant...',
+          description: "",
+          section: "News",},{id: "news-two-papers-accepted-to-cvpr-2026-adaptive-confidence-regularization-for-multimodal-failure-detection-and-towards-multimodal-domain-generalization-with-few-labels-highlight",
+          title: 'Two papers accepted to CVPR 2026: “Adaptive Confidence Regularization for Multimodal Failure Detection”...',
+          description: "",
+          section: "News",},{id: "news-honored-to-be-selected-for-the-cvpr-2026-doctoral-consortium-and-to-receive-a-cvpr-2026-travel-award",
+          title: 'Honored to be selected for the CVPR 2026 Doctoral Consortium and to receive...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
@@ -476,42 +486,42 @@ ninja.data = [{
         title: 'CV',
         section: 'Socials',
         handler: () => {
-          window.open("/assets/pdf/example_pdf.pdf", "_blank");
+          window.open("/assets/pdf/cv_hao_dong.pdf", "_blank");
         },
       },{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%79%6F%75@%65%78%61%6D%70%6C%65.%63%6F%6D", "_blank");
+          window.open("mailto:%64%6F%6E%67%68%61%6F%73%70%75%72%73@%67%6D%61%69%6C.%63%6F%6D", "_blank");
         },
       },{
-        id: 'social-inspire',
-        title: 'Inspire HEP',
+        id: 'social-github',
+        title: 'GitHub',
         section: 'Socials',
         handler: () => {
-          window.open("https://inspirehep.net/authors/1010907", "_blank");
+          window.open("https://github.com/donghao51", "_blank");
         },
       },{
-        id: 'social-rss',
-        title: 'RSS Feed',
+        id: 'social-linkedin',
+        title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("/feed.xml", "_blank");
+          window.open("https://www.linkedin.com/in/", "_blank");
         },
       },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=qc6CJjYAAAAJ", "_blank");
+          window.open("https://scholar.google.com/citations?user=", "_blank");
         },
       },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
+        id: 'social-orcid',
+        title: 'ORCID',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.alberteinstein.com/", "_blank");
+          window.open("https://orcid.org/", "_blank");
         },
       },{
       id: 'light-theme',
