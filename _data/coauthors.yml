@@ -4,15 +4,15 @@
 
 "fink":
   - firstname: ["Olga", "O."]
-    url: https://www.epfl.ch/labs/vita/
+    url: https://people.epfl.ch/olga.fink?lang=en
 
 "zhao":
   - firstname: ["Yue", "Y."]
-    url: https://www.yuezhao.me/
+    url: https://viterbi-web.usc.edu/~yzhao010/
 
 "chen":
   - firstname: ["Xieyuanli", "X."]
-    url: https://xieyuanli-chen.com/
+    url: https://chen-xieyuanli.github.io/
 
 "stachniss":
   - firstname: ["Cyrill", "C."]
@@ -32,7 +32,7 @@
 
 "larsson":
   - firstname: ["Viktor", "V."]
-    url: https://viktorlarsson.github.io/
+    url: https://vlarsson.github.io/
 
 "dusmanu":
   - firstname: ["Mihai", "M."]
@@ -40,15 +40,15 @@
 
 "nejjar":
   - firstname: ["Ismail", "I."]
-    url: https://ismailnejjar.com/
+    url: https://scholar.google.com/citations?user=UWdDYtAAAAAJ
 
 "sun":
   - firstname: ["Han", "H."]
-    url: https://sunhan.me/
+    url: https://hansunhayden.github.io/
 
 "liu":
   - firstname: ["Moru", "M."]
-    url: https://scholar.google.com/citations?user=YdTkFi0AAAAJ
+    url: https://scholar.google.com/citations?user=ihVItz4AAAAJ
 
 "zhou":
   - firstname: ["Kaiyang", "K."]
@@ -56,12 +56,12 @@
 
 "liang":
   - firstname: ["Jian", "J."]
-    url: https://liangjiandeng.github.io/
+    url: https://liangjian.xyz/
 
 "tian":
   - firstname: ["Yuan", "Y."]
-    url: https://scholar.google.com/citations?user=OAyVBskAAAAJ
+    url: https://scholar.google.com/citations?user=84hs7J4AAAAJ
 
 "frusque":
   - firstname: ["Gaëtan", "G.", "Gaetan"]
-    url: https://scholar.google.com/citations?user=8y0VqoMAAAAJ
+    url: https://scholar.google.com/citations?user=n8nRgbkAAAAJ
