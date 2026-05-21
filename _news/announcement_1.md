@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2026-06-01 00:00:00+0000
+date: 2026-05-21 00:00:00+0000
 inline: true
 related_posts: false
 ---
 
-Honored to be selected for the **CVPR 2026 Doctoral Consortium** and to receive a **CVPR 2026 Travel Award**.
+Excited to share that I will be joining **ELLIS Institute Finland** as Principal Investigator and **Tampere University** as Tenure-Track Assistant Professor.

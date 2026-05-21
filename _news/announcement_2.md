@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2026-04-01 00:00:00+0000
+date: 2026-04-17 00:00:00+0000
 inline: true
 related_posts: false
 ---
 
-Two papers accepted to **CVPR 2026**: "Adaptive Confidence Regularization for Multimodal Failure Detection" and "Towards Multimodal Domain Generalization with Few Labels" (<strong>highlight</strong>).
+Honored to be selected for the **CVPR 2026 Doctoral Consortium** and to receive a **CVPR 2026 Travel Award**.

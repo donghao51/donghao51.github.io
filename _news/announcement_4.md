@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Invited to participate in the **Meta PhD Forum** (Oct. 2025).
+Invited to participate in the **Meta PhD Forum**.
