@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-open-positions",
           title: "open positions",
-          description: "Open PhD, postdoc, and research positions in the group.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/open-positions/";
@@ -482,13 +482,6 @@ ninja.data = [{
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/introduction-to-machine-learning/";
             },},{
-        id: 'social-cv',
-        title: 'CV',
-        section: 'Socials',
-        handler: () => {
-          window.open("/assets/pdf/cv_hao_dong.pdf", "_blank");
-        },
-      },{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
@@ -507,21 +500,14 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/", "_blank");
+          window.open("https://www.linkedin.com/in/hao-dong-276317100", "_blank");
         },
       },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=", "_blank");
-        },
-      },{
-        id: 'social-orcid',
-        title: 'ORCID',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://orcid.org/", "_blank");
+          window.open("https://scholar.google.com/citations?user=5jcoGEIAAAAJ", "_blank");
         },
       },{
       id: 'light-theme',
