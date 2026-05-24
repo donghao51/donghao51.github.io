@@ -15,7 +15,7 @@ I am recruiting **2-3 PhD students** with a strong background in machine learnin
 
 - A Master's degree (or equivalent) in Computer Science, Electrical Engineering, Mathematics, or a related field
 - Strong programming skills, particularly in Python and PyTorch, with hands-on experience in deep learning
-- A good command of English (written and spoken)
+- A good command of English (written and spoken, at least IELTS 6.5 or equivalent)
 - Motivation for independent research and publishing at top venues
 
 The positions are typically 4 years in duration and are fully funded, with a starting salary of approximately €3,000+ per month (gross), along with comprehensive benefits in accordance with Tampere University policies and the Finnish social security system. Eligible group members can later be nominated as official ELLIS PhDs.
@@ -26,24 +26,24 @@ I am also open to hosting **1-2 postdoctoral researchers**. Candidates with expe
 
 - A PhD degree in Computer Science, Electrical Engineering, Mathematics, or a related field
 - A strong publication record at top-tier conferences and journals
-- A good command of English (written and spoken)
+- A good command of English (written and spoken, )
 
 The positions are available for up to 3 years, with a starting salary of approximately €4,000+ per month (gross), along with comprehensive benefits in accordance with Tampere University policies and the Finnish social security system. Eligible group members can later be nominated as official ELLIS Postdocs.
 
 ## Research Interns / Visiting Students / Thesis Students / Collaborators
 
-Applications are open year-round. I welcome motivated students and collaborators for opportunities lasting more than 3 months, either on-site or remote. Possible formats include research internships, thesis supervision (Bachelor’s/Master’s), visiting students, and research collaborations.
+Applications are open year-round. I welcome motivated students and collaborators for opportunities lasting more than 3 months, either on-site or remote. Possible formats include research internships, thesis supervision (Bachelor’s/Master’s), visiting students, and research collaborations. Paid positions are not our priority and can be highly selective.
 
 ## What We Offer
 
-- Opportunities for Growth: Members tackle interdisciplinary research spanning robotics, healthcare, and industrial monitoring, while gaining hands-on experience with large-scale AI models and infrastructure. The skills and mindset developed here lay the foundation for strong careers, both inside and beyond AI.
-- Dedicated Mentorship: I offer hands-on guidance while deeply respecting your creative vision. My goal is to empower you to become an independent researcher, innovator, and problem-solver. I measure my own success by the success of my students, many of whom have published in top-tier venues.
-- World-Class Computing Resources: Benefit from cutting-edge computational infrastructure through the ELLIS Institute Finland (featuring exclusive access to over 100 H200 GPUs), Tampere University, and Finland’s renowned EuroHPC/LUMI supercomputer. You will have the opportunity to execute multi-node training at scale using hundreds of GPUs.
-- Global Collaboration and Networking: Leveraging my extensive research collaborations across Europe, Asia, and the US, I actively connect lab members with a global network of top-tier academic institutions and the broader ELLIS community. We also provide support for international conference attendance and academic exchange programs.
+- **Opportunities for Growth:** Members tackle interdisciplinary research spanning robotics, healthcare, and industrial monitoring, while gaining hands-on experience with large-scale AI models and infrastructure. The skills and mindset developed here lay the foundation for strong careers, both inside and beyond AI.
+- **Dedicated Mentorship:** I offer hands-on guidance while deeply respecting your creative vision. My goal is to empower you to become an independent researcher, innovator, and problem-solver. I measure my own success by the success of my students, many of whom have published in top-tier venues.
+- **World-Class Computing Resources:** Benefit from cutting-edge computational infrastructure through the ELLIS Institute Finland (featuring exclusive access to over 100 H200 GPUs), Tampere University, and Finland’s renowned EuroHPC/LUMI supercomputer. You will have the opportunity to execute multi-node training at scale using hundreds of GPUs.
+- **Global Collaboration and Networking:** Leveraging my extensive research collaborations across Europe, Asia, and the US, I actively connect lab members with a global network of top-tier academic institutions and the broader ELLIS community. We also provide support for international conference attendance and academic exchange programs.
 
 ## How to Apply
 
-Please send me an email at **donghaospurs@gmail.com** with:
+Please send **a single PDF** to **donghaospurs@gmail.com** with:
 1. Your CV and transcript
 2. The role you apply for
 3. A brief statement (1-2 paragraphs) explaining your research interests and why you want to join our group
