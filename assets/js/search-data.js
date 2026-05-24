@@ -25,14 +25,14 @@ ninja.data = [{
           },
         },{id: "nav-research-group",
           title: "research group",
-          description: "members of the lab or group",
+          description: "Members of the research group at ELLIS Institute Finland and Tampere University.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/research-group/";
           },
         },{id: "nav-teaching",
           title: "teaching",
-          description: "Course materials, schedules, and resources for classes taught.",
+          description: "Teaching experience including courses taught and assisted.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
