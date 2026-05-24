@@ -55,12 +55,22 @@ Short note: I carefully review every email, but I may not always be able to resp
 ## More Information
 
 <details>
-<summary><strong>About ELLIS Institute Finland, Tampere University, and Living in Finland</strong></summary>
+<summary><strong>About ELLIS Institute Finland</strong></summary>
 <p style="margin-top: 0.8em;">
-ELLIS Institute Finland is part of the European Laboratory for Learning and Intelligent Systems (ELLIS), the pan-European network of excellence in AI. The ELLIS Institutes are strategic initiatives of ELLIS to build world-class AI research hubs. 
+ELLIS Institute Finland is part of the European Laboratory for Learning and Intelligent Systems (ELLIS), the pan-European network of excellence in AI. The ELLIS Institutes are strategic initiatives of ELLIS to build world-class AI research hubs.
+</p>
+</details>
 
+<details>
+<summary><strong>About Tampere University</strong></summary>
+<p style="margin-top: 0.8em;">
 Tampere University is a leading Finnish multidisciplinary institution renowned for its innovative, research-driven approach that uniquely integrates technology, health, and society to solve complex global challenges.
+</p>
+</details>
 
+<details>
+<summary><strong>About Living in Finland</strong></summary>
+<p style="margin-top: 0.8em;">
 Finland consistently rank among the top worldwide in education, equality, safety, and quality of life. Finland offers excellent living conditions and comprehensive social security, whether for individuals or families, and has been repeatedly ranked as the happiest country in the world.
 </p>
 </details>
