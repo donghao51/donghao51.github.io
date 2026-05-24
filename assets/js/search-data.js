@@ -405,13 +405,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-paper-accepted-to-neurips-2024-as-a-spotlight-multiood-scaling-out-of-distribution-detection-for-multiple-modalities-also-received-the-neurips-2023-travel-award",
-          title: 'Paper accepted to NeurIPS 2024 as a Spotlight: “MultiOOD: Scaling Out-of-Distribution Detection for...',
-          description: "",
-          section: "News",},{id: "news-paper-accepted-to-iclr-2025-towards-robust-multimodal-open-set-test-time-adaptation-via-adaptive-entropy-aware-optimization",
-          title: 'Paper accepted to ICLR 2025: “Towards Robust Multimodal Open-set Test-time Adaptation via Adaptive...',
-          description: "",
-          section: "News",},{id: "news-paper-accepted-to-neurips-2025-extremely-simple-multimodal-outlier-synthesis-for-out-of-distribution-detection-and-segmentation",
+            },},{id: "news-paper-accepted-to-neurips-2025-extremely-simple-multimodal-outlier-synthesis-for-out-of-distribution-detection-and-segmentation",
           title: 'Paper accepted to NeurIPS 2025: “Extremely Simple Multimodal Outlier Synthesis for Out-of-Distribution Detection...',
           description: "",
           section: "News",},{id: "news-invited-to-participate-in-the-meta-phd-forum",
