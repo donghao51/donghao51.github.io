@@ -42,5 +42,4 @@ Please send me an email at **donghaospurs@gmail.com** with:
 3. A brief statement (1-2 paragraphs) explaining your research interests and why you want to join our group
 4. Links to any publications or code (if applicable)
 
-I will do my best to respond to all inquiries, though I may not always be able to reply to every email due to volume.
-
+Short note: I carefully review every email, but I may not always be able to respond immediately. Please note that this does not reflect on your qualifications or potential. Doctoral and postdoctoral applications are reviewed in batches, so the evaluation process may take some time. Only shortlisted candidates will be contacted. Research internship applications are reviewed on a rolling basis. If you do not hear back within two weeks, please assume I am unable to proceed at this time, though you are welcome to follow up in case your message was missed.

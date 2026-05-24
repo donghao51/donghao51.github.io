@@ -2,14 +2,15 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Course materials, schedules, and resources for classes taught.
+description: Teaching experience including courses taught and assisted.
 nav: true
 nav_order: 5
-calendar: true
 ---
 
-<!-- This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics. -->
+## Teaching Assistant
 
-<!-- {% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
-
-{% include courses.liquid %} -->
+| Course | Institution | Period |
+|---|---|---|
+| Data Science for Infrastructure Condition Monitoring | EPFL | Feb. 2024 – Jun. 2024 |
+| Machine Learning for Predictive Maintenance Applications | EPFL | Sep. 2023 – Dec. 2023 |
+| Computer Vision | Aalto University | Sep. 2021 – Dec. 2021 |
