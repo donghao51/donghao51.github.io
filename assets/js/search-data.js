@@ -23,12 +23,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-research-group",
-          title: "research group",
+        },{id: "nav-group",
+          title: "group",
           description: "Members of the research group at ELLIS Institute Finland and Tampere University.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/research-group/";
+            window.location.href = "/group/";
           },
         },{id: "nav-teaching",
           title: "teaching",
