@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /research-group/
-title: research group
+permalink: /group/
+title: group
 description: Members of the research group at ELLIS Institute Finland and Tampere University.
 nav: true
 nav_order: 4
