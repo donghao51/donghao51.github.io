@@ -7,7 +7,7 @@ nav: true
 nav_order: 2
 ---
 
-I am actively looking for motivated candidates to join my research group at **ELLIS Institute Finland** and **Tampere University** for **Fall 2026 / Spring 2027**. Our research focuses on multimodal learning and generative AI, reliable and trustworthy machine learning, vision-language models, and the generalization and adaptation of foundation models and agentic AI, with applications in robotics, autonomous driving, healthcare, and industrial monitoring.
+I am actively looking for motivated candidates to join my research group at **ELLIS Institute Finland** and **Tampere University** for **Fall 2026 / Spring 2027**. We build the next generation of reliable and trustworthy machine learning systems. Our group focuses on multimodal learning, generative AI, and vision-language models, with a specific emphasis on how foundation models and agentic AI can adapt and generalize to new environments. Ultimately, our goal is to power safe, intelligent systems in robotics, autonomous driving, healthcare, and industrial monitoring.
 
 ## PhD Positions
 
