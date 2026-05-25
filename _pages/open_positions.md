@@ -56,20 +56,20 @@ Short note: I carefully review every email, but I may not always be able to resp
 <details>
 <summary><strong>About ELLIS Institute Finland</strong></summary>
 <p style="margin-top: 0.8em;">
-ELLIS Institute Finland is part of the European Laboratory for Learning and Intelligent Systems (ELLIS), the pan-European network of excellence in AI. The ELLIS Institutes are strategic initiatives of ELLIS to build world-class AI research hubs.
+ELLIS Institute Finland is developing an ecosystem of top talents, businesses and investments in Finland, with fundamental machine learning research at the core. The Institute is part of the European Laboratory for Learning and Intelligent Systems (ELLIS), which aims to build a pan-European institution for machine learning research. Founded in 2018, ELLIS has grown into a network of two institutes and more than 40 ELLIS units at world-class institutions in 17 countries, 16 ELLIS programs and a pan-European PhD program. The members of ELLIS are committed to shaping the future of AI in Europe by pushing the scientific and technological boundaries for human-centered, beneficial and safe AI.
 </p>
 </details>
 
 <details>
 <summary><strong>About Tampere University</strong></summary>
 <p style="margin-top: 0.8em;">
-Tampere University is a leading Finnish multidisciplinary institution renowned for its innovative, research-driven approach that uniquely integrates technology, health, and society to solve complex global challenges.
+Tampere University is a leading Finnish multidisciplinary institution renowned for its innovative, research-driven approach that uniquely integrates technology, health, and society to solve complex global challenges. It is the second largest university in the country by student enrollment.
 </p>
 </details>
 
 <details>
 <summary><strong>About Living in Finland</strong></summary>
 <p style="margin-top: 0.8em;">
-Finland consistently rank among the top worldwide in education, equality, safety, and quality of life. Finland offers excellent living conditions and comprehensive social security, whether for individuals or families, and has been repeatedly ranked as the happiest country in the world.
+Finland consistently ranks among the top countries in education, equality, safety, and quality of life. It is one of the most technologically advanced nations in the world, with a strong emphasis on design, creativity, and startup culture. Finland also leads Europe in venture capital investments relative to GDP. Whether alone or with family, Finland offers an excellent quality of life. It is a safe, politically stable, and well-organized Nordic society where equality is highly valued, and corruption is low. The country provides extensive social security and a globally recognized free, high-quality education system. Finnish work culture values a low level of hierarchy, fostering collaboration and innovation. Finland has also been repeatedly ranked as the happiest country in the world, according to the World Happiness Report. For more information about living in Finland: www.infofinland.fi/en/frontpage and finland.fi.
 </p>
 </details>

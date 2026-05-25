@@ -7,7 +7,7 @@ nav: true
 nav_order: 4
 ---
 
-## Mentored Students
+<!-- ## Mentored Students
 
 | Student | Role | Institution | Year |
 |---|---|---|---|
@@ -20,4 +20,4 @@ nav_order: 4
 | Anders Hominal | Master Project on Time Series OOD Detection | EPFL | 2024 |
 | Nicolas Khamis | Bachelor Project on Time Series Domain Adaptation | EPFL | 2024 |
 | Ryan Saab | Bachelor Project on Time Series Representation Learning | EPFL | 2024 |
-| Shawn Li | Co-supervision on Multimodal OOD Detection ([CVPR 2025 highlight](https://arxiv.org/abs/2411.08227)) | USC | 2024 |
+| Shawn Li | Co-supervision on Multimodal OOD Detection ([CVPR 2025 highlight](https://arxiv.org/abs/2411.08227)) | USC | 2024 | -->
