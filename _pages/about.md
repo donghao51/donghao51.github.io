@@ -8,7 +8,7 @@ permalink: /
 
 profile:
   align: right
-  image: haodong.jpg
+  image: haodong2.jpg
   image_circular: false
   more_info: >
     <p>donghaospurs@gmail.com</p>
