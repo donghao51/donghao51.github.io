@@ -2,10 +2,15 @@
 layout: page
 permalink: /group/
 title: group
-description: Members of the research group at ELLIS Institute Finland and Tampere University.
+description: Multimodal Intelligence Lab (MINT Lab) at ELLIS Institute Finland and Tampere University.
 nav: true
 nav_order: 4
 ---
+
+# Multimodal Intelligence (MINT) Lab
+
+
+
 
 <!-- ## Mentored Students
 
