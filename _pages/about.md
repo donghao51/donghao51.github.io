@@ -31,7 +31,7 @@ My long-term research goal is to advance **a new generation of intelligent AI sy
 
 - **Multimodal Learning and Generative AI**
 - **Reliable and Trustworthy Machine Learning**
-- **Generalization, Adaptation, and Continual Learning of Foundation Models and Agentic AI**
+- **Generalization, Adaptation, and Continual Learning of Foundation Models and Agentic Systems**
 - **Applications in Robotics, Healthcare, Industrial Monitoring, and Beyond**
 
 I am always looking for motivated PhD students, postdocs, interns, and research collaborators. Please see the [open positions](/open-positions/) page or reach out by email.
