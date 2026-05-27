@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-group",
           title: "group",
-          description: "Multimodal Intelligence Lab (MINT Lab) at ELLIS Institute Finland and Tampere University.",
+          description: "Multimodal Intelligence Lab at ELLIS Institute Finland and Tampere University.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/group/";
