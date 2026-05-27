@@ -2,7 +2,7 @@
 layout: page
 permalink: /group/
 title: group
-description: Multimodal Intelligence Lab (MINT Lab) at ELLIS Institute Finland and Tampere University.
+description: Multimodal Intelligence Lab at ELLIS Institute Finland and Tampere University.
 nav: true
 nav_order: 4
 ---
