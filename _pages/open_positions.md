@@ -18,7 +18,7 @@ I am recruiting **2-3 PhD students** with a strong background in machine learnin
 - A good command of English (written and spoken, at least IELTS 6.5 or equivalent)
 - Motivation for independent research and publishing at top venues
 
-The positions are typically 4 years in duration and are fully funded, with a starting salary of approximately €3,000+ per month, along with comprehensive benefits in accordance with Tampere University policies and the Finnish social security system. Eligible group members can later be nominated as official [ELLIS PhDs](https://ellis.eu/research/phd-postdoc).
+The positions are typically 4 years in duration and are fully funded, with a starting salary of approximately €3,000+ per month, along with comprehensive benefits in accordance with Tampere University policies and the Finnish social security system. Eligible group members can later be nominated as official [ELLIS PhDs](https://ellis.eu/research/phd-postdoc). I'm also recruiting PhD students through the [ELLIS PhD Program](https://ellis.eu/research/phd-postdoc/guidelines-phd-central-recruiting). 
 
 ## Postdoctoral Positions
 
@@ -43,10 +43,11 @@ Applications are open year-round. I welcome motivated students and collaborators
 
 ## How to Apply
 
-Please send **a single PDF** to **donghaospurs@gmail.com** using the subject line "[Role] - [Your Name] - [Starting]" (e.g. "PhD - H Dong - Fall26") with:
+Please send **a single PDF** to **mintlab.application@outlook.com** using the subject line "[Role] - [Your Name] - [Starting]" (e.g. "PhD - H Dong - Fall26") with:
 1. Your CV and transcript
 2. A brief statement (1-2 paragraphs) explaining your research interests and why you want to join our group
-3. Links to any publications or code (if applicable)
+3. Optional supporting documents (e.g. publications, code, degree proofs)
+4. Names and contact details of 2-3 referees (to be contacted only at the pre-offer stage)
 
 Short note: I carefully review every email, but I may not always be able to respond immediately. Please note that this does not reflect on your qualifications or potential. Doctoral and postdoctoral applications are reviewed in batches, so the evaluation process may take some time. Only shortlisted candidates will be contacted. Research internship applications are reviewed on a rolling basis. If you do not hear back within two weeks, please assume I am unable to proceed at this time, though you are welcome to follow up in case your message was missed.
 
