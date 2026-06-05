@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-01'
+  last_updated: '2026-06-05'
 papers:
   5jcoGEIAAAAJ:0EnyYjriUFMC:
     citations: 7
@@ -90,7 +90,7 @@ papers:
     title: Online range image-based pole extractor for long-term lidar localization in urban environments
     year: '2021'
   5jcoGEIAAAAJ:ufrVoPGSRksC:
-    citations: 66
+    citations: 67
     title: Unseen Visual Anomaly Generation
     year: '2025'
   5jcoGEIAAAAJ:zYLM7Y9cAGgC:
