@@ -18,7 +18,7 @@ I am recruiting **2-3 PhD students** with a strong background in machine learnin
 - A good command of English (written and spoken, at least IELTS 6.5 or equivalent)
 - Motivation for independent research and publishing at top venues
 
-The positions are typically 4 years in duration and are fully funded, with a starting salary of approximately €3,000+ per month, along with comprehensive benefits in accordance with Tampere University policies and the Finnish social security system. Eligible group members can later be nominated as official [ELLIS PhDs](https://ellis.eu/research/phd-postdoc). I'm also recruiting PhD students through the [ELLIS PhD Program](https://ellis.eu/research/phd-postdoc/guidelines-phd-central-recruiting). 
+The positions are typically 4 years in duration and are fully funded, along with comprehensive benefits in accordance with Tampere University policies and the Finnish social security system. Eligible group members can later be nominated as official [ELLIS PhDs](https://ellis.eu/research/phd-postdoc). I'm also recruiting PhD students through the [ELLIS PhD Program](https://ellis.eu/research/phd-postdoc/guidelines-phd-central-recruiting). 
 
 ## Postdoctoral Positions
 
@@ -28,7 +28,7 @@ I am also open to hosting **1-2 postdoctoral researchers**. Candidates with expe
 - A strong publication record at top-tier conferences and journals
 - A good command of English (written and spoken, )
 
-The positions are available for up to 3 years, with a starting salary of approximately €4,000+ per month, along with comprehensive benefits in accordance with Tampere University policies and the Finnish social security system. Eligible group members can later be nominated as official [ELLIS Postdocs](https://ellis.eu/research/phd-postdoc).
+The positions are available for up to 3 years and are fully funded, along with comprehensive benefits in accordance with Tampere University policies and the Finnish social security system. Eligible group members can later be nominated as official [ELLIS Postdocs](https://ellis.eu/research/phd-postdoc).
 
 ## Research Interns / Visiting Students / Thesis Students / Collaborators
 
