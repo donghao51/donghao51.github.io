@@ -1,16 +1,16 @@
 metadata:
-  last_updated: '2026-06-12'
+  last_updated: '2026-07-22'
 papers:
   5jcoGEIAAAAJ:0EnyYjriUFMC:
     citations: 7
     title: To Trust Or Not To Trust Your Vision-Language Model's Prediction
     year: '2025'
   5jcoGEIAAAAJ:2osOgNQ5qMEC:
-    citations: 98
+    citations: 103
     title: 'SuperFusion: Multilevel LiDAR-Camera Fusion for Long-Range HD Map Generation'
     year: '2024'
   5jcoGEIAAAAJ:3fE2CSJIrl8C:
-    citations: 10
+    citations: 17
     title: 'From Physics to Machine Learning and Back: Part I-Learning with Inductive Biases in Prognostics and Health Management'
     year: '2026'
   5jcoGEIAAAAJ:4TOpqqG69KYC:
@@ -18,15 +18,15 @@ papers:
     title: Towards Multimodal Domain Generalization with Few Labels
     year: '2026'
   5jcoGEIAAAAJ:8k81kl-MbHgC:
-    citations: 11
+    citations: 13
     title: 'Adapting vision-language models without labels: A comprehensive survey'
     year: '2025'
   5jcoGEIAAAAJ:9yKSN-GCB0IC:
-    citations: 15
+    citations: 16
     title: Learning-Based Dimensionality Reduction for Computing Compact and Effective Local Feature Descriptors
     year: '2023'
   5jcoGEIAAAAJ:IjCSPb-OGe4C:
-    citations: 98
+    citations: 99
     title: 'SimMMDG: A Simple and Effective Framework for Multi-modal Domain Generalization'
     year: '2023'
   5jcoGEIAAAAJ:KlAtU1dfN6UC:
@@ -34,7 +34,7 @@ papers:
     title: Multimodal Learning for Arcing Detection in Pantograph-Catenary Systems
     year: '2026'
   5jcoGEIAAAAJ:LkGwnXOMwfcC:
-    citations: 42
+    citations: 47
     title: 'Advances in multimodal adaptation and generalization: From traditional approaches to foundation models'
     year: '2026'
   5jcoGEIAAAAJ:M3ejUd6NZC8C:
@@ -42,11 +42,11 @@ papers:
     title: Adaptive Confidence Regularization for Multimodal Failure Detection
     year: '2026'
   5jcoGEIAAAAJ:UebtZRa9Y70C:
-    citations: 30
+    citations: 37
     title: Interactive symbolic regression with co-design mechanism through offline reinforcement learning
     year: '2025'
   5jcoGEIAAAAJ:W7OEmFMy1HYC:
-    citations: 43
+    citations: 47
     title: 'MultiOOD: Scaling Out-of-Distribution Detection for Multiple Modalities'
     year: '2024'
   5jcoGEIAAAAJ:WF5omc3nYNoC:
@@ -62,23 +62,23 @@ papers:
     title: Towards Reliable Multimodal Learning for Real-world Systems
     year: '2026'
   5jcoGEIAAAAJ:_FxGoFyzp5QC:
-    citations: 15
+    citations: 18
     title: Towards Robust Multimodal Open-set Test-time Adaptation via Adaptive Entropy-aware Optimization
     year: '2025'
   5jcoGEIAAAAJ:aqlVkmm33-oC:
-    citations: 9
+    citations: 15
     title: 'From physics to machine learning and back: Part II-Learning and observational bias in prognostics and health management (PHM)'
     year: '2026'
   5jcoGEIAAAAJ:d1gkVwhDpl0C:
-    citations: 40
+    citations: 43
     title: Online pole segmentation on range images for long-term LiDAR localization in urban environments
     year: '2022'
   5jcoGEIAAAAJ:eQOLeE2rZwMC:
-    citations: 40
+    citations: 45
     title: 'Dpu: Dynamic prototype updating for multimodal out-of-distribution detection'
     year: '2025'
   5jcoGEIAAAAJ:hqOjcs7Dif8C:
-    citations: 11
+    citations: 16
     title: Extremely simple multimodal outlier synthesis for out-of-distribution detection and segmentation
     year: '2025'
   5jcoGEIAAAAJ:qxL8FJ1GzNcC:
@@ -90,10 +90,10 @@ papers:
     title: Online range image-based pole extractor for long-term lidar localization in urban environments
     year: '2021'
   5jcoGEIAAAAJ:ufrVoPGSRksC:
-    citations: 69
+    citations: 80
     title: Unseen Visual Anomaly Generation
     year: '2025'
   5jcoGEIAAAAJ:zYLM7Y9cAGgC:
-    citations: 34
+    citations: 36
     title: 'NNG-Mix: Improving Semi-supervised Anomaly Detection with Pseudo-anomaly Generation'
     year: '2024'
