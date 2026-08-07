@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-08-03'
+  last_updated: '2026-08-07'
 papers:
   5jcoGEIAAAAJ:0EnyYjriUFMC:
     citations: 7
     title: To Trust Or Not To Trust Your Vision-Language Model's Prediction
     year: '2025'
   5jcoGEIAAAAJ:2osOgNQ5qMEC:
-    citations: 102
+    citations: 103
     title: 'SuperFusion: Multilevel LiDAR-Camera Fusion for Long-Range HD Map Generation'
     year: '2024'
   5jcoGEIAAAAJ:3fE2CSJIrl8C:
@@ -66,7 +66,7 @@ papers:
     title: Towards Robust Multimodal Open-set Test-time Adaptation via Adaptive Entropy-aware Optimization
     year: '2025'
   5jcoGEIAAAAJ:aqlVkmm33-oC:
-    citations: 15
+    citations: 16
     title: 'From physics to machine learning and back: Part II-Learning and observational bias in prognostics and health management (PHM)'
     year: '2026'
   5jcoGEIAAAAJ:d1gkVwhDpl0C:
