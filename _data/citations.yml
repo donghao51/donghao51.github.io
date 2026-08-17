@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-08-10'
+  last_updated: '2026-08-17'
 papers:
   5jcoGEIAAAAJ:0EnyYjriUFMC:
-    citations: 7
+    citations: 8
     title: To Trust Or Not To Trust Your Vision-Language Model's Prediction
     year: '2025'
   5jcoGEIAAAAJ:2osOgNQ5qMEC:
@@ -13,12 +13,16 @@ papers:
     citations: 18
     title: 'From physics to machine learning and back: Part i-learning with inductive biases in prognostics and health management'
     year: '2026'
+  5jcoGEIAAAAJ:4DMP91E08xMC:
+    citations: 0
+    title: Lifecycle-aware knowledge graphs with human-in-the-loop agentic retrieval for automotive manufacturing
+    year: '2026'
   5jcoGEIAAAAJ:4TOpqqG69KYC:
     citations: 3
     title: Towards Multimodal Domain Generalization with Few Labels
     year: '2026'
   5jcoGEIAAAAJ:8k81kl-MbHgC:
-    citations: 13
+    citations: 14
     title: 'Adapting vision-language models without labels: A comprehensive survey'
     year: '2026'
   5jcoGEIAAAAJ:9yKSN-GCB0IC:
@@ -26,7 +30,7 @@ papers:
     title: Learning-Based Dimensionality Reduction for Computing Compact and Effective Local Feature Descriptors
     year: '2023'
   5jcoGEIAAAAJ:IjCSPb-OGe4C:
-    citations: 105
+    citations: 106
     title: 'SimMMDG: A Simple and Effective Framework for Multi-modal Domain Generalization'
     year: '2023'
   5jcoGEIAAAAJ:KlAtU1dfN6UC:
@@ -34,7 +38,7 @@ papers:
     title: Multimodal Learning for Arcing Detection in Pantograph-Catenary Systems
     year: '2026'
   5jcoGEIAAAAJ:LkGwnXOMwfcC:
-    citations: 52
+    citations: 53
     title: 'Advances in multimodal adaptation and generalization: From traditional approaches to foundation models'
     year: '2026'
   5jcoGEIAAAAJ:M3ejUd6NZC8C:
@@ -42,7 +46,7 @@ papers:
     title: Adaptive Confidence Regularization for Multimodal Failure Detection
     year: '2026'
   5jcoGEIAAAAJ:UebtZRa9Y70C:
-    citations: 39
+    citations: 40
     title: Interactive symbolic regression with co-design mechanism through offline reinforcement learning
     year: '2025'
   5jcoGEIAAAAJ:W7OEmFMy1HYC:
@@ -54,7 +58,7 @@ papers:
     title: 'Recall and refine: A simple but effective source-free open-set domain adaptation framework'
     year: '2025'
   5jcoGEIAAAAJ:YsMSGLbcyi4C:
-    citations: 30
+    citations: 31
     title: Towards Multimodal Open-Set Domain Generalization and Adaptation through Self-supervision
     year: '2024'
   5jcoGEIAAAAJ:Zph67rFs4hoC:
@@ -66,7 +70,7 @@ papers:
     title: Towards Robust Multimodal Open-set Test-time Adaptation via Adaptive Entropy-aware Optimization
     year: '2025'
   5jcoGEIAAAAJ:aqlVkmm33-oC:
-    citations: 16
+    citations: 18
     title: 'From physics to machine learning and back: Part II-Learning and observational bias in prognostics and health management (PHM)'
     year: '2026'
   5jcoGEIAAAAJ:d1gkVwhDpl0C:
@@ -74,7 +78,7 @@ papers:
     title: Online pole segmentation on range images for long-term LiDAR localization in urban environments
     year: '2022'
   5jcoGEIAAAAJ:eQOLeE2rZwMC:
-    citations: 47
+    citations: 48
     title: 'Dpu: Dynamic prototype updating for multimodal out-of-distribution detection'
     year: '2025'
   5jcoGEIAAAAJ:hqOjcs7Dif8C:
@@ -90,7 +94,7 @@ papers:
     title: Online range image-based pole extractor for long-term lidar localization in urban environments
     year: '2021'
   5jcoGEIAAAAJ:ufrVoPGSRksC:
-    citations: 83
+    citations: 84
     title: Unseen Visual Anomaly Generation
     year: '2025'
   5jcoGEIAAAAJ:zYLM7Y9cAGgC:
