@@ -11,7 +11,7 @@ profile:
   image: haodong2.jpg
   image_circular: false
   more_info: >
-    <p>donghaospurs@gmail.com</p>
+    <p>hao.dong@tuni.fi</p>
 
 selected_papers: true
 social: true
