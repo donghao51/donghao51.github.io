@@ -9,6 +9,13 @@ nav_order: 4
 
 # Multimodal Intelligence (MINT) Lab
 
+## PhD Students
+
+- **Derrick Manoharan** (co-supervised with [Juho Kanniainen](https://www.tuni.fi/en/people/juho-kanniainen))
+- **Eljas Linna** (co-supervised with [Juho Kanniainen](https://www.tuni.fi/en/people/juho-kanniainen))
+- **Suhail Bashir** (co-supervised with [Alexandros Iosifidis](https://sites.google.com/view/iosifidis))
+- **Abhimanyu Bhowmik** (co-supervised with [Joni Kämäräinen](https://webpages.tuni.fi/vision/public_pages/JoniKamarainen/index.html))
+
 
 
 
