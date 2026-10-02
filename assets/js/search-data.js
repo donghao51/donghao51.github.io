@@ -23,9 +23,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-group",
-          title: "group",
-          description: "Multimodal Intelligence Lab at ELLIS Institute Finland and Tampere University.",
+        },{id: "nav-multimodal-intelligence-lab",
+          title: "Multimodal Intelligence Lab",
+          description: "Building robust, reliable, and adaptable multimodal AI for the real world.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/group/";
