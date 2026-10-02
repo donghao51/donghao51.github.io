@@ -1,13 +1,12 @@
 ---
 layout: page
 permalink: /group/
-title: group
-description: Multimodal Intelligence Lab at ELLIS Institute Finland and Tampere University.
+title: Multimodal Intelligence Lab
+description: Building robust, reliable, and adaptable multimodal AI for the real world.
 nav: true
 nav_order: 4
 ---
 
-# Multimodal Intelligence (MINT) Lab
 
 ## PhD Students
 
@@ -15,7 +14,6 @@ nav_order: 4
 - **Eljas Linna** (co-supervised with [Juho Kanniainen](https://www.tuni.fi/en/people/juho-kanniainen))
 - **Suhail Bashir** (co-supervised with [Alexandros Iosifidis](https://sites.google.com/view/iosifidis))
 - **Abhimanyu Bhowmik** (co-supervised with [Joni Kämäräinen](https://webpages.tuni.fi/vision/public_pages/JoniKamarainen/index.html))
-
 
 
 
