@@ -7,12 +7,17 @@ nav: true
 nav_order: 4
 ---
 
+## PostDocs
+
+- **Prajwal Singh** (co-supervised with [Alexandros Iosifidis](https://sites.google.com/view/iosifidis))
 
 ## PhD Students
 
+- **Khoa Pham-Dinh** (co-supervised with [Juho Kannala](https://users.aalto.fi/~kannalj1/))
 - **Derrick Manoharan** (co-supervised with [Juho Kanniainen](https://www.tuni.fi/en/people/juho-kanniainen))
 - **Eljas Linna** (co-supervised with [Juho Kanniainen](https://www.tuni.fi/en/people/juho-kanniainen))
 - **Suhail Bashir** (co-supervised with [Alexandros Iosifidis](https://sites.google.com/view/iosifidis))
+- **Kien Nguyen** (co-supervised with [Alexandros Iosifidis](https://sites.google.com/view/iosifidis))
 - **Abhimanyu Bhowmik** (co-supervised with [Joni Kämäräinen](https://webpages.tuni.fi/vision/public_pages/JoniKamarainen/index.html))
 
 
