@@ -20,8 +20,6 @@ nav_order: 4
 - **Kien Nguyen** (co-supervised with [Alexandros Iosifidis](https://sites.google.com/view/iosifidis))
 - **Abhimanyu Bhowmik** (co-supervised with [Joni Kämäräinen](https://webpages.tuni.fi/vision/public_pages/JoniKamarainen/index.html))
 
-
-
 <!-- ## Mentored Students
 
 | Student | Role | Institution | Year |
